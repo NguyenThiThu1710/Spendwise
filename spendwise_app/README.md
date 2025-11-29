@@ -1,4 +1,4 @@
-# spendwise_app
+# spendwise_app  NguyenThiThu DangThiBichThuy
 
 A new Flutter project.
 
